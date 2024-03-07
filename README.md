@@ -47,7 +47,8 @@ By completing this reflection, you will gain a clearer understanding of your car
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values:
-       I am keen on how we can protect peoples details and identity especially in digital platforms so that they do not get scammed, so my interst in helping other people and accountability aligns with my general        interest in cybersecurity.
+       I am keen on how we can protect peoples details and identity especially in digital platforms so that they do not get scammed, so my interst in helping other people and accountability aligns with my     
+        general interest in cybersecurity.
     - Identify any gaps or areas for further exploration:
        I need to explore more with machine learning and game development .
 
@@ -70,8 +71,11 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal: I would read through the study material provided and look for other sources to really understand important concecpts, complete challenges and projects, to enforce knowledge assimilation, I would apply the knowledge and work on my own personal projects, collaborate with other developers and build more projects.
-    - Include any resources or support required: So far no support required but should there be a need I will definately ask relevent people.
+    - Detail specific actions or steps needed to achieve each short-term goal:
+    I would read through the study material provided and look for other sources to really understand important concecpts, complete challenges and projects, to enforce knowledge assimilation, I would apply the 
+    knowledge and work on my own personal projects, collaborate with other developers and build more projects.
+    - Include any resources or support required:
+       So far no support required but should there be a need I will definately ask relevent people.
 2. **Preparation for Long-term Goals**:
     
     - Describe the preparations or groundwork necessary for your long-term aspirations:
